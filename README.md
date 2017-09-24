@@ -1,12 +1,16 @@
-# Lucha (por la privacidad) contra el uso de la aplicación UGRApp
+# Lucha contra el uso de la aplicación UGRApp
 
 La Universidad de Granada lanzó en julio una aplicación para teléfonos móviles que ofrece facilidades para todos los miembros de la UGR: estudiantes, PDI y PAS. 
 
-Por desgracia, esta aplicación pone en peligro la privacidad de todos los que formamos la UGR.
+Por desgracia, esta aplicación es realmente perjudicial para la comunidad universitaria por varias razones.
+
+Esta aplicación se crea como elemento para facilitar la consulta y gestión de asuntos relacionados con la universidad. Lo apropiado sería, ya que la universidad es una institución pública, que se ofrecieran una serie de herramientas públicas para facilitar el acceso a todo el que lo necesite, es decir, una API pública de libre acceso. Sin embargo, lo que se ha hecho es facilitarle esto al Santander **en exclusiva**.
+
+Aparte de esto, la aplicación parece atentar gravemente contra la privacidad de los usuarios. Un ejemplo sencillo es que la UGR usa el DNI como identificador de inicio de sesión, con lo cual, el Santander puede coger este dato. Pero esto es solo un ejemplo, te invitamos a que sigas leyendo todo lo que hemos descubierto sobre esto y lo que hemos intentado arreglar. =)
 
 ## Este grupo de personas
 
-Somos un grupo de personas, entre ellas estudiantes y trabajadores de la UGR preocupados por la violación de privacidad que esta aplicación ejerce sobre el público.
+Somos un grupo de personas, entre ellas estudiantes y trabajadores de la UGR preocupados por la violación de derechos que esta aplicación ejerce sobre la comunidad universitaria.
 
 ### Origen
 
@@ -30,7 +34,7 @@ Mientras, la UGR no dejó de darle publicidad a la aplicación, a pesar de que l
 
 ### Estado actual
 
-Una vez acabado el verano, redactamos [este documento][docu-gist], que enviamos a la gente que estaba a cargo de la aplicación. En vez de contestar, nos dijeron que solo nos podían ofrecer una reunión a puerta cerrada con algunos de nosotros. Nosotros pedimos poder grabar y difundir la reunión, pero la petición fue totalmente ignorada y, en su lugar, dieron la reunión por rechazada. Podéis encontrar todo el hilo de correos [en este mismo repositorio][correos].
+Una vez acabado el verano, redactamos [este documento][docu-gist], que enviamos a la gente que estaba a cargo de la aplicación. En vez de contestar al documento, nos dijeron que solo nos podían ofrecer una reunión a puerta cerrada con algunos de nosotros para discutirlo. Nosotros pedimos poder grabar y difundir la reunión, pero la petición fue totalmente ignorada y, en su lugar, dieron la reunión por rechazada. Podéis encontrar todo el hilo de correos [en este mismo repositorio][correos].
 
 
 
@@ -41,4 +45,4 @@ Una vez acabado el verano, redactamos [este documento][docu-gist], que enviamos 
 [docu-etherpad]: https://public.etherpad-mozilla.org/p/ugrappsantander
 [docu-gist]: https://gist.github.com/agarciamontoro/748585960766f710b7f32a0413cb325b
 [ugr-dudas-app]: http://udigital.ugr.es/ugrapp/pages/condiciones_legales_permisos
-[correos]: https://github.com/josealberto4444/lucha-privacidad-UGRApp/blob/master/recursos/correos.md
+[correos]: https://github.com/antiugrapp/antiugrapp.github.io/blob/master/recursos/correos.md
