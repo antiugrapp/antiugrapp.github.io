@@ -3,9 +3,9 @@
 Correos intercambiados entre la Universidad de Granada y este grupo.
 
 ## Grupo, 15/9/17 21:00
-￼
+
 To: joibanez@ugr.es, rectora@ugr.es, ocordon@decsai.ugr.es
-￼
+
 Hola:
 
 Les mando este correo en nombre del grupo de alumnos y personas relacionadas con la UGR que nos dimos cuenta de los defectos de la aplicación UGRApp. Ya nos pusimos en contacto con José Ángel y hemos redactado un documento con todas las cuestiones relativas a la aplicación, el cual esperamos que mediten y respondan adecuadamente.
