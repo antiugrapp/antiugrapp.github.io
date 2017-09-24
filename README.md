@@ -2,13 +2,15 @@
 
 La Universidad de Granada lanzó en julio una aplicación para teléfonos móviles que ofrece facilidades para todos los miembros de la UGR: estudiantes, PDI y PAS.
 
+Por desgracia, esta aplicación pone en peligro la privacidad de todos los que formamos la UGR.
+
 ## Este grupo de personas
 
 Somos un grupo de personas, entre ellas estudiantes y trabajadores de la UGR preocupados por la violación de privacidad que esta aplicación ejerce sobre el público.
 
 ### Origen
 
-Alguien en [Interferencias][], un grupo preocupado por la privacidad y la seguridad pero sin relación con la UGR, rápidamente dio la voz de alarma al echar un vistazo a las condiciones de uso, las cuales son bastante abusivas y, entre otras cosas, permiten que se les cedan datos personales al Santander, por ejemplo:
+Cuando la UGR empezó a dar publicidad masiva a esta aplicación allá por julio, alguien en [Interferencias][], un grupo preocupado por la privacidad y la seguridad pero sin relación con la UGR, rápidamente dio la voz de alarma al echar un vistazo a las condiciones de uso, las cuales son bastante abusivas y, entre otras cosas, permiten que se les cedan datos personales al Santander, por ejemplo:
 
 > -El USUARIO, desde el momento en el que se registra en cualquiera de los PORTALES, y de conformidad con lo dispuesto en su Política de Confidencialidad, autoriza a la sociedad UNIVERSIA titular del PORTAL en que se haya inscrito a enviarle información comercial propia o de terceros de los sectores de telecomunicaciones, banca, formación, educación, ocio, investigación, automoción, gran consumo, empleo, cultura, salidas profesionales, textil, bancario, transporte, seguros, restauración, tecnología, alimentación, televisión, radio, portales y comparadores de internet, por correo electrónico, sms o cualquier otro medio de comunicación electrónica equivalente. Esta autorización es necesaria para registrarse como usuario ya que el envío de la información comercial ayuda a Universia a sufragar los costes derivados de la puesta a disposición gratuita a favor de los usuarios de los contenidos de los portales, guardando por tanto relación directa con la creación y el mantenimiento de la relación contractual establecida con el USUARIO por el hecho de registrarse en cualquiera de los PORTALES. Una vez registrado y en caso de no querer recibir este tipo de comunicaciones, el USUARIO podrá revocar su consentimiento a través del procedimiento indicado en las propias comunicaciones comerciales o en su área privada o dándose directamente de baja como USUARIO de UNIVERSIA en el formulario de baja establecido al efecto. 
 > 
