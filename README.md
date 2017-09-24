@@ -1,6 +1,6 @@
 # Lucha (por la privacidad) contra el uso de la aplicación UGRApp
 
-La Universidad de Granada lanzó en julio una aplicación para teléfonos móviles que ofrece facilidades para todos los miembros de la UGR: estudiantes, PDI y PAS.
+La Universidad de Granada lanzó en julio una aplicación para teléfonos móviles que ofrece facilidades para todos los miembros de la UGR: estudiantes, PDI y PAS. 
 
 Por desgracia, esta aplicación pone en peligro la privacidad de todos los que formamos la UGR.
 
