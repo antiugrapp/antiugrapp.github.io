@@ -118,7 +118,7 @@ Hola:
 
 Cuando nos comunicamos con el señor José Ángel Ibáñez Zapata nos dijo que nos darían una respuesta si consensuábamos un documento, como hemos hecho. Aquí están sus palabras textuales:
 
-José Ángel Ibáñez Zapata, [18.07.17 17:44]:
+José Ángel Ibáñez Zapata, [18.07.17 17:44]:  
 "insisto, agrupad todos vuestros comentarios en un documento y los haré llegar a los especialistas en cada materia para que los estudien y os respondan."
 
 Por nuestra parte no comprendemos su negativa a hacer un comunicado público dando respuesta a nuestro documento. Pensamos que los puntos que comentamos y su respuesta a ellos son de interés general de todo aquel que quiera utilizar la aplicación. Tampoco entendemos lo que han reiterado varias veces sobre la "subjetividad de un documento escrito", siendo una conversación mucho más abierta a los errores o las dobles interpretaciones. Si, en cualquier caso, creen que nuestro documento tiene algún dato o proposición errónea, les invitamos a que nos digan por escrito junto al resto de su comunicado cuáles son los errores o dónde se encuentra la equivocación.
