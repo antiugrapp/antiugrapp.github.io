@@ -17,7 +17,7 @@ que detallamos los problemas con la aplicación.
 
 <!-- toc -->
   1. [La aplicación](#la-aplicación)
-  2. [Software libre](#software-libre)
+  2. [Software privativo y software libre](#software-privativo-y-software-libre)
 <!-- tocstop -->
 
 ## La aplicación
@@ -26,12 +26,14 @@ móviles que ofrece facilidades para todos los miembros de la UGR:
 estudiantes, PDI y PAS. Por desgracia, esta aplicación es realmente
 perjudicial para la comunidad universitaria por varias razones.
 
-La aplicación parece atentar gravemente contra la
-privacidad de los usuarios. Un ejemplo sencillo es que la UGR usa el
-DNI como identificador de inicio de sesión, con lo cual, el Santander
-puede coger este dato.
+## Privacidad
 
-## Software libre
+La aplicación parece atentar gravemente contra la privacidad de los
+usuarios. Un ejemplo sencillo es que la UGR usa el DNI como
+identificador de inicio de sesión, con lo cual, este dato estaría
+expuesto al Santander.
+
+## Software privativo y software libre
 
 ### ¿Qué es el software libre y por qué es importante?
 
@@ -144,8 +146,8 @@ ejerce sobre la comunidad universitaria.
 
 ### Origen
 
-Cuando la UGR empezó a dar publicidad masiva a esta aplicación allá
-por julio, alguien en [Interferencias][], un grupo preocupado por la
+Cuando la UGR empezó a dar publicidad masiva a esta aplicación
+en julio de 2017, alguien en [Interferencias][], un grupo preocupado por la
 privacidad y la seguridad pero sin relación con la UGR, rápidamente
 dio la voz de alarma al echar un vistazo a las condiciones de uso, las
 cuales son bastante abusivas y, entre otras cosas, permiten que se les
@@ -214,8 +216,8 @@ verano, y no pudimos darle forma final al documento.
 Mientras, la UGR no dejó de darle publicidad a la aplicación, a pesar
 de que le habíamos advertido de los aspectos negativos mencionados (y
 algunos otros fallos de seguridad). También
-publicaron [esta página][ugr-dudas-app] donde daban respuesta a una
-cantidad ínfima de todos los asuntos planteados.
+publicaron [esta página][ugr-dudas-app] donde intentaban responder 
+de alguna forma a los asuntos planteados.
 
 ### Estado actual
 

@@ -1,2 +1,2 @@
 docs/index.html: README.md
-		 pandoc README.md -o docs/index.html -c pandoc.css
+		 pandoc README.md -o index.html -c pandoc.css
