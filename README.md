@@ -20,6 +20,7 @@ que detallamos los problemas con la aplicación.
   2. [Privacidad](#privacidad)
   3. [Software privativo y software libre](#software-privativo-y-software-libre)
   4. [Influencia del Santander en la Universidad](#influencia-del-santander-en-la-universidad)
+  5. [Funcionalidad limitada](#funcionalidad-limitada)
 <!-- tocstop -->
 
 ## La aplicación
@@ -40,15 +41,36 @@ aplicación oficial de otras universidades miembros de la
  - Universidad Alfonso X el Sabio, y
  - Universidad Pontificia de Salamanca.
  
- Tememos que las mismas quejas aquí expuestas se pueden aplicar a
- las aplicaciones oficiales de estas universidades.
+Tememos que las mismas quejas aquí expuestas se pueden aplicar de la
+misma manera a todas las aplicaciones oficiales de estas
+universidades.
 
 ## Privacidad
+Una aplicación de la que no conocemos el código y que está escrita por
+una entidad privada podría atentar gravemente contra la privacidad de
+los usuarios sin ninguna dificultad. Un ejemplo sencillo es que la UGR
+usa el DNI como identificador de inicio de sesión, y este dato estaría
+así expuesto al Santander. Está previsto, según la publicidad que se
+le ha dado a la aplicación, que la aplicación acceda a datos de la
+Universidad tales como calificaciones, conversaciones privadas entre
+sus usuarios y trámites administrativos.
 
-La aplicación podría atentar gravemente contra la privacidad de los
-usuarios. Un ejemplo sencillo es que la UGR usa el DNI como
-identificador de inicio de sesión, con lo cual, este dato estaría
-expuesto al Santander.
+> consulta de las calificaciones, el listado de asignaturas, los
+> horarios de clases, el menú de los comedores universitarios, el
+> catálogo de la biblioteca, o el directorio, así como enviar y
+> recibir mensajes de quienes integran la comunidad universitaria,
+> entre otros. Igualmente, permite al personal de la institución
+> realizar trámites administrativos como la gestión de actas, la
+> gestión de permisos y licencias, la consulta de datos personales y
+> administrativos, etc.
+>
+> Noticias Canal UGR, [La Universidad de Granada lanza su APP oficial](https://canal.ugr.es/noticia/app-ugr-oficial/)
+
+El riesgo potencial a la privacidad que supone una aplicación de
+estas características no está justificado por su utilidad, que es
+muy escasa exisitiendo ya canales para todas esas gestiones.
+Deberíamos tratar calificaciones y trámites administrativos con
+sumo cuidado.
 
 ### Condiciones de uso de aplicaciones de Universia
 Las condiciones de uso de portales y aplicaciones de Universia, la red
@@ -110,7 +132,6 @@ y aplicaciones de Universia en
  - [Política de confidencialidad de Universia](http://usuarios.universia.net/preparaPoliticaConfidencialidad.action)
 
 ### Área comercial
-
 La aplicación se anunció en los carteles y noticias de la UGR como
 capaz de ofrecer una serie de "retos" y "ventajas comerciales" para
 los usuarios.
@@ -309,10 +330,21 @@ universidad independiente.
 Junto a la publicidad de la aplicación, se han cedido mesas y espacios
 propagandísticos al Santander en el interior de las facultades.
 
+## Funcionalidad limitada
+Como se ha expuesto en secciones anteriores, la funcionalidad de la
+aplicación es muy limitada. No ofrece en estos momentos nada que no
+pueda ser realizado más cómodamente con un navegador web; ni nada que
+no pudiera ser fácilmente replicado si se proporcionara una API
+pública en lugar de sólo facilitar el acceso de los datos al
+Santander.
+
 ## Acerca de este documento
 Somos un grupo de personas, entre ellas estudiantes y trabajadores de
 la UGR preocupados por la violación de derechos que esta aplicación
 ejerce sobre la comunidad universitaria.
+
+Pedimos la retirada de UGRapp como aplicación oficial de la Universidad
+de Granada.
 
 ### Origen
 Cuando la UGR empezó a dar publicidad masiva a esta aplicación
