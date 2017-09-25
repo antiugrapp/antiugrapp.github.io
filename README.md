@@ -68,7 +68,7 @@ sus usuarios y trámites administrativos.
 
 El riesgo potencial a la privacidad que supone una aplicación de
 estas características no está justificado por su utilidad, que es
-muy escasa exisitiendo ya canales para todas esas gestiones.
+muy escasa existiendo ya canales para todas esas gestiones.
 Deberíamos tratar calificaciones y trámites administrativos con
 sumo cuidado.
 
@@ -263,11 +263,11 @@ de la aplicación y sólo permite a las universidades usarla y desarrollar
 los módulos propios de cada universidad.
 
 > El Banco Santander ostenta los derechos de propiedad intelectual e
-> industrial de la App Crue, así como los derechos de explotación
+> industrial de la App CRUE, así como los derechos de explotación
 > sobre sus los resultados, entregables, aplicaciones, programas y
 > desarrollos de dicha aplicación.
 >
-> [*UGRapp. Legalidad y permisos.*](http://udigital.ugr.es/ugrapp/pages/condiciones_legales_permisos)
+> [*UGRApp. Legalidad y permisos.*](http://udigital.ugr.es/ugrapp/pages/condiciones_legales_permisos)
 
 La aplicación original, AppCrue, se intentó promocionar desde la
 [CRUE](http://www.crue.org/SitePages/QueEsCrueUniversidadesEspa%C3%B1olas.aspx)
@@ -344,10 +344,10 @@ Santander.
 Somos un grupo de personas, entre ellas estudiantes y trabajadores de
 la UGR preocupados por la violación de derechos que esta aplicación
 ejerce sobre la comunidad universitaria.  Pedimos la retirada de
-UGRapp como aplicación oficial de la Universidad de Granada.
+UGRApp como aplicación oficial de la Universidad de Granada.
 
 Cuando la UGR empezó a dar publicidad masiva a esta aplicación
-en julio de 2017 se dió la voz de alarma y se creó
+en julio de 2017 se dio la voz de alarma y se creó
 [un grupo en Telegram][telegram] para coordinar las quejas. A este se unió gente de la
 propia universidad, incluso gente responsable de la aplicación o que
 tenía que ver con ella en algún sentido. Nos dijeron que hiciéramos un
