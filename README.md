@@ -19,6 +19,7 @@ que detallamos los problemas con la aplicación.
   1. [La aplicación](#la-aplicación)
   2. [Privacidad](#privacidad)
   3. [Software privativo y software libre](#software-privativo-y-software-libre)
+  4. [Influencia del Santander en la Universidad](#influencia-del-santander-en-la-universidad)
 <!-- tocstop -->
 
 ## La aplicación
@@ -26,6 +27,21 @@ La Universidad de Granada lanzó en julio una aplicación para teléfonos
 móviles que ofrece facilidades para todos los miembros de la UGR:
 estudiantes, PDI y PAS. Por desgracia, esta aplicación es realmente
 perjudicial para la comunidad universitaria por varias razones.
+
+Esta aplicación comparte un núcleo común, llamado AppCRUE, con la
+aplicación oficial de otras universidades miembros de la
+[CRUE](http://www.crue.org/SitePages/Inicio.aspx)
+
+ - Universidad de la Rioja,
+ - Universidad de Valladolid,
+ - Universidad de Castilla-La Mancha,
+ - Universidad de Burgos,
+ - Universidad de Vigo,
+ - Universidad Alfonso X el Sabio, y
+ - Universidad Pontificia de Salamanca.
+ 
+ Tememos que las mismas quejas aquí expuestas se pueden aplicar a
+ las aplicaciones oficiales de estas universidades.
 
 ## Privacidad
 
@@ -287,8 +303,11 @@ de Granada.
 >
 > *Noticias de Canal UGR.* [*La Universidad de Granada lanza su app oficial.*](https://canal.ugr.es/noticia/app-ugr-oficial/)
 
-No se explican estos párrafos propagandísticos en una noticia de
-una universidad independiente.
+No se explican estos párrafos propagandísticos en una noticia de una
+universidad independiente.
+
+Junto a la publicidad de la aplicación, se han cedido mesas y espacios
+propagandísticos al Santander en el interior de las facultades.
 
 ## Acerca de este documento
 Somos un grupo de personas, entre ellas estudiantes y trabajadores de
