@@ -9,11 +9,40 @@
   <link rel="stylesheet" href="pandoc.css" type="text/css" />
 </head>
 <body>
-<h1 id="lucha-por-la-privacidad-contra-el-uso-de-la-aplicación-ugrapp">Lucha (por la privacidad) contra el uso de la aplicación UGRApp</h1>
-<p>La Universidad de Granada lanzó en julio una aplicación para teléfonos móviles que ofrece facilidades para todos los miembros de la UGR: estudiantes, PDI y PAS.</p>
-<p>Por desgracia, esta aplicación pone en peligro la privacidad de todos los que formamos la UGR.</p>
-<h2 id="este-grupo-de-personas">Este grupo de personas</h2>
-<p>Somos un grupo de personas, entre ellas estudiantes y trabajadores de la UGR preocupados por la violación de privacidad que esta aplicación ejerce sobre el público.</p>
+<h1 id="contra-el-uso-de-la-aplicación-ugrapp">Contra el uso de la aplicación UGRApp</h1>
+<h2 id="resumen">Resumen</h2>
+<p>La aplicación UGRApp es una aplicación del Banco Santander a la que la universidad ha permitido que añada los logos oficiales. No se ha liberado su código, comparte datos personales con el Santander, su funcionalidad es muy reducida e incluye información comercial de productos financieros del Santander. Universia, la red del banco Santander destinada a universidades declara en sus condiciones legales que se nutre del envío de publicidad a los usuarios.</p>
+<p>Se recomienda no usar la aplicación y exigir a la UGR que la retire y facilite el desarrollo de aplicaciones libres para una universidad pública fuera de la influencia del Banco Santander.</p>
+<!-- toc -->
+<ol style="list-style-type: decimal">
+<li><a href="#la-aplicación">La aplicación</a></li>
+<li><a href="#software-libre">Software libre</a> <!-- tocstop --></li>
+</ol>
+<h2 id="la-aplicación">La aplicación</h2>
+<p>La Universidad de Granada lanzó en julio una aplicación para teléfonos móviles que ofrece facilidades para todos los miembros de la UGR: estudiantes, PDI y PAS. Por desgracia, esta aplicación es realmente perjudicial para la comunidad universitaria por varias razones.</p>
+<p>Esta aplicación se crea como elemento para facilitar la consulta y gestión de asuntos relacionados con la universidad. Lo apropiado sería, ya que la universidad es una institución pública, que se ofrecieran una serie de herramientas públicas para facilitar el acceso a todo el que lo necesite, es decir, una API pública de libre acceso. Sin embargo, lo que se ha hecho es facilitarle esto al Santander <strong>en exclusiva</strong>.</p>
+<p>Aparte de esto, la aplicación parece atentar gravemente contra la privacidad de los usuarios. Un ejemplo sencillo es que la UGR usa el DNI como identificador de inicio de sesión, con lo cual, el Santander puede coger este dato. Pero esto es solo un ejemplo, te invitamos a que sigas leyendo todo lo que hemos descubierto sobre esto y lo que hemos intentado arreglar. =)</p>
+<h2 id="software-libre">Software libre</h2>
+<h3 id="qué-es-el-software-libre-y-por-qué-es-importante">¿Qué es el software libre y por qué es importante?</h3>
+<p>El <a href="https://es.wikipedia.org/wiki/Software_libre">software libre</a> (<a href="https://en.wikipedia.org/wiki/Free_software">free software</a>) es aquel que puede ser usado, estudiado, distribuido y mejorado pública y libremente. A este software se le aplica una licencia libre y se libera su código fuente para hacer efectivas estas libertades.</p>
+<p>¿Por qué es importante el software libre en la universidad?, el propio blog de campaña de la rectora decía en uno de sus artículos</p>
+<blockquote>
+<p>[...] libertad para la propia universidad y para el contribuyente que es quien la financia. Si no es libre, el software obliga a la universidad a pagar, año tras año, por el solo hecho de usarlo, decenas y cientos de miles de euros que podrían dedicarse a desarrollar software libre localmente o, simplemente, a cualquier otra cosa.</p>
+<p><em>Los peces en el agua</em>, <a href="http://pilararanda.info/reflexiones-sobre-la-ugr/los-peces-en-el-agua-o-lo-importante-es-la-libertad-por-jj-merelo/">pilararanda.info</a></p>
+</blockquote>
+<p>Crucialmente, el software privativo (esto es, aquel que no es libre), provoca dependencia de las instituciones públicas de las empresas que lo desarrollan. Si no están autorizadas a mejorar su software o contratar a otra empresa para que lo mejore, se acaba en una situación de monopolio en el que deben forzosamente pagar a la empresa que lo desarrolló inicialmente para su mejora, desarrollo y mantenimiento.</p>
+<p>El siguiente vídeo (con subtítulos en castellano), explica la necesidad del software libre en la administración</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iuVUzg6x2yo" frameborder="0" allowfullscreen>
+</iframe>
+<h3 id="apuesta-contra-el-software-libre">Apuesta contra el software libre</h3>
+<p>El <a href="http://pilararanda.info/pdf/programa/09.PROGRAMA-UNIVERSIDAD_DIGITAL.pdf">programa electoral</a> de la actual rectora incluía explícitamente el apoyo a las iniciativas de software libre</p>
+<blockquote>
+<p>Impulsar todas aquellas actividades dirigidas a la generación de productos y servicios útiles que operen bajo una licencia abierta (software libre).</p>
+<p>Programa electoral de Pilar Aranda, <a href="http://pilararanda.info/pdf/programa/09.PROGRAMA-UNIVERSIDAD_DIGITAL.pdf">Universidad Digital</a></p>
+</blockquote>
+<p>la acción que se ha tomado dejando que la aplicación oficial de la universidad sea privativa y esté en manos del Banco Santander y Universia contraviene directamente lo que se prometió tanto en el programa electoral como en los <a href="http://pilararanda.info/reflexiones-sobre-la-ugr/los-peces-en-el-agua-o-lo-importante-es-la-libertad-por-jj-merelo/">blogs de campaña</a>.</p>
+<h2 id="acerca-de-este-documento">Acerca de este documento</h2>
+<p>Somos un grupo de personas, entre ellas estudiantes y trabajadores de la UGR preocupados por la violación de derechos que esta aplicación ejerce sobre la comunidad universitaria.</p>
 <h3 id="origen">Origen</h3>
 <p>Cuando la UGR empezó a dar publicidad masiva a esta aplicación allá por julio, alguien en <a href="https://github.com/Interferencias">Interferencias</a>, un grupo preocupado por la privacidad y la seguridad pero sin relación con la UGR, rápidamente dio la voz de alarma al echar un vistazo a las condiciones de uso, las cuales son bastante abusivas y, entre otras cosas, permiten que se les cedan datos personales al Santander, por ejemplo:</p>
 <blockquote>
@@ -30,6 +59,6 @@
 <p>Una vez dada la voz de alarma y creado <a href="https://t.me/joinchat/AHZMCkSAyR7SaSQqYWATog">el grupo en Telegram</a>, a este se unió gente de la propia universidad, incluso gente responsable de la aplicación o que tenía que ver con ella en algún sentido. Nos dijeron que hiciéramos un documento con todos estos asuntos y que ellos les darían respuesta, así que abrimos un <a href="https://public.etherpad-mozilla.org/p/ugrappsantander">documento colaborativo en Etherpad</a> y empezamos a escribir. Desafortunadamente, llegaron los exámenes y el verano, y no pudimos darle forma final al documento.</p>
 <p>Mientras, la UGR no dejó de darle publicidad a la aplicación, a pesar de que le habíamos advertido de los aspectos negativos mencionados (y algunos otros fallos de seguridad). También publicaron <a href="http://udigital.ugr.es/ugrapp/pages/condiciones_legales_permisos">esta página</a> donde daban respuesta a una cantidad ínfima de todos los asuntos planteados.</p>
 <h3 id="estado-actual">Estado actual</h3>
-<p>Una vez acabado el verano, redactamos <a href="https://gist.github.com/agarciamontoro/748585960766f710b7f32a0413cb325b">este documento</a>, que enviamos a la gente que estaba a cargo de la aplicación. En vez de contestar, nos dijeron que solo nos podían ofrecer una reunión a puerta cerrada con algunos de nosotros. Nosotros pedimos poder grabar y difundir la reunión, pero la petición fue totalmente ignorada y, en su lugar, dieron la reunión por rechazada. Podéis encontrar todo el hilo de correos <a href="https://github.com/josealberto4444/lucha-privacidad-UGRApp/blob/master/recursos/correos.md">en este mismo repositorio</a>.</p>
+<p>Una vez acabado el verano, redactamos <a href="https://gist.github.com/agarciamontoro/748585960766f710b7f32a0413cb325b">este documento</a>, que enviamos a la gente que estaba a cargo de la aplicación. En vez de contestar al documento, nos dijeron que solo nos podían ofrecer una reunión a puerta cerrada con algunos de nosotros para discutirlo. Nosotros pedimos poder grabar y difundir la reunión, pero la petición fue totalmente ignorada y, en su lugar, dieron la reunión por rechazada. Podéis encontrar todo el hilo de correos <a href="https://github.com/antiugrapp/antiugrapp.github.io/blob/master/recursos/correos.md">en este mismo repositorio</a>.</p>
 </body>
 </html>

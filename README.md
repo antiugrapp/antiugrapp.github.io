@@ -13,6 +13,11 @@ Se recomienda no usar la aplicación y exigir a la UGR que la retire
 y facilite el desarrollo de aplicaciones libres para una universidad
 pública fuera de la influencia del Banco Santander.
 
+<!-- toc -->
+  1. [La aplicación](#la-aplicación)
+  2. [Software libre](#software-libre)
+<!-- tocstop -->
+
 ## La aplicación
 La Universidad de Granada lanzó en julio una aplicación para teléfonos
 móviles que ofrece facilidades para todos los miembros de la UGR:
@@ -33,6 +38,59 @@ DNI como identificador de inicio de sesión, con lo cual, el Santander
 puede coger este dato. Pero esto es solo un ejemplo, te invitamos a
 que sigas leyendo todo lo que hemos descubierto sobre esto y lo que
 hemos intentado arreglar. =)
+
+## Software libre
+
+### ¿Qué es el software libre y por qué es importante?
+
+El [software libre](https://es.wikipedia.org/wiki/Software_libre) 
+([free software](https://en.wikipedia.org/wiki/Free_software)) es aquel
+que puede ser usado, estudiado, distribuido y mejorado pública y libremente.
+A este software se le aplica una licencia libre y se libera su código fuente
+para hacer efectivas estas libertades.
+
+¿Por qué es importante el software libre en la universidad?, el propio
+blog de campaña de la rectora decía en uno de sus artículos
+
+> [...] libertad para la propia universidad y para el contribuyente que es
+> quien la financia. Si no es libre, el software obliga a la
+> universidad a pagar, año tras año, por el solo hecho de usarlo,
+> decenas y cientos de miles de euros que podrían dedicarse a
+> desarrollar software libre localmente o, simplemente, a cualquier
+> otra cosa.
+>
+>  *Los peces en el agua*, [pilararanda.info](http://pilararanda.info/reflexiones-sobre-la-ugr/los-peces-en-el-agua-o-lo-importante-es-la-libertad-por-jj-merelo/)
+
+Crucialmente, el software privativo (esto es, aquel que no es libre),
+provoca dependencia de las instituciones públicas de las empresas que
+lo desarrollan. Si no están autorizadas a mejorar su software o
+contratar a otra empresa para que lo mejore, se acaba en una situación
+de monopolio en el que deben forzosamente pagar a la empresa que lo
+desarrolló inicialmente para su mejora, desarrollo y mantenimiento.
+
+El siguiente vídeo (con subtítulos en castellano), explica la necesidad
+del software libre en la administración
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iuVUzg6x2yo" frameborder="0" allowfullscreen></iframe>
+
+### Apuesta contra el software libre
+El
+[programa electoral](http://pilararanda.info/pdf/programa/09.PROGRAMA-UNIVERSIDAD_DIGITAL.pdf) de
+la actual rectora incluía explícitamente el apoyo a las iniciativas de
+software libre
+
+> Impulsar todas aquellas actividades dirigidas a la generación de
+> productos y servicios útiles que operen bajo una licencia abierta
+> (software libre).
+>
+> Programa electoral de Pilar Aranda, [Universidad Digital](http://pilararanda.info/pdf/programa/09.PROGRAMA-UNIVERSIDAD_DIGITAL.pdf)
+
+la acción que se ha tomado dejando que la aplicación oficial de la
+universidad sea privativa y esté en manos del Banco Santander y
+Universia contraviene directamente lo que se prometió tanto en el
+programa electoral como en los
+[blogs de campaña](http://pilararanda.info/reflexiones-sobre-la-ugr/los-peces-en-el-agua-o-lo-importante-es-la-libertad-por-jj-merelo/).
+
 
 ## Acerca de este documento
 Somos un grupo de personas, entre ellas estudiantes y trabajadores de
