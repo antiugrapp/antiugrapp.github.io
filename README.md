@@ -5,8 +5,8 @@ universidad ha permitido que añada los logos oficiales. No se ha
 liberado su código, comparte datos personales con el Santander, su
 funcionalidad es muy reducida e incluye información comercial de
 productos financieros del Santander. Universia, la red del banco
-Santander destinada a universidades declara en sus condiciones legales
-que se nutre del envío de publicidad a los usuarios.
+Santander destinada a universidades se nutre de la obtención de datos
+personales para el envío de publicidad a los usuarios.
 
 Se recomienda no usar la aplicación y exigir a la UGR que la retire
 y facilite el desarrollo de aplicaciones libres para una universidad
@@ -17,7 +17,8 @@ que detallamos los problemas con la aplicación.
 
 <!-- toc -->
   1. [La aplicación](#la-aplicación)
-  2. [Software privativo y software libre](#software-privativo-y-software-libre)
+  2. [Privacidad](#privacidad)
+  3. [Software privativo y software libre](#software-privativo-y-software-libre)
 <!-- tocstop -->
 
 ## La aplicación
@@ -28,11 +29,12 @@ perjudicial para la comunidad universitaria por varias razones.
 
 ## Privacidad
 
-La aplicación parece atentar gravemente contra la privacidad de los
+La aplicación podría atentar gravemente contra la privacidad de los
 usuarios. Un ejemplo sencillo es que la UGR usa el DNI como
 identificador de inicio de sesión, con lo cual, este dato estaría
 expuesto al Santander.
 
+### Condiciones de uso de aplicaciones de Universia
 Las condiciones de uso de portales y aplicaciones de Universia, la red
 del Santander dedicada a universidades son abusivas y, entre otras
 cosas, permiten que se les cedan datos personales y se envíen informaciones
@@ -91,12 +93,64 @@ y aplicaciones de Universia en
  - [Código ético de Universia](http://usuarios.universia.net/preparaCodigoEtico.action)
  - [Política de confidencialidad de Universia](http://usuarios.universia.net/preparaPoliticaConfidencialidad.action)
 
+### Área comercial
 
+La aplicación se anunció en los carteles y noticias de la UGR como
+capaz de ofrecer una serie de "retos" y "ventajas comerciales" para
+los usuarios.
 
-[Aviso legal](http://usuarios.universia.net/preparaAvisoLegal.action)
+> [...] ofrece la oportunidad de participar en retos, juegos, sorteos
+> y concursos, y acceder a innumerables ventajas exclusivas para el
+> colectivo de la UGR.
+>
+> [*Noticia en CanalUGR a 18/07/2017.*](https://canal.ugr.es/noticia/app-ugr-oficial/)
+
+Esos "retos" no están gestionados por la Universidad de Granada y no
+deberían tener lugar en una aplicación oficial de una universidad
+pública, son parte directa del Santander y Universia.
+
+> Los servicios del Área comercial no están gestionados por la
+> Universidad de Granada. Su uso es opcional para el usuario y el área
+> universitaria puede utilizada de forma totalmente independiente a la
+> comercial. Los usuarios interesados en el uso de dichos servicios
+> deberán prestar, en el momento del acceso a los mismos, un
+> consentimiento expreso, libre, específico, informado e inequívoco
+> para que se comuniquen sus datos personales al Santander y
+> Universia, y para permitir que estas entidades los traten con las
+> finalidades específicas establecidas para dicha área comercial.
+>
+> [*UGRApp. Legalidad y permisos.*](http://udigital.ugr.es/ugrapp/pages/condiciones_legales_permisos)
+
+Es preocupante que dentro de la aplicación oficial de una Universidad
+se encuentre una sección comercial de una empresa privada y se
+implemente una funcionalidad para comunicar nuestros datos personales
+al Santander y Universia. No es razonable que un botón de
+consentimiento sea lo único que proteja los datos de estudiantes de
+que pasen a formar legalmente parte de los archivos del Santander.
+Ceder datos al Santander no es el comportamiento que se espera de una
+aplicación oficial con la marca de la UGR y hará que muchos estudiantes
+acepten esas condiciones sin estudiarlas detenidamente.
+
+La UGRApp, de todas formas, es una aplicación muy deficiente en cuanto
+a funcionalidad, y en particular esta funcionalidad de "retos" que se
+anuncia en carteles y noticias de la UGR como implementada, **no está todavía
+implementada**, pero no se nos oculta que es su intención implementarla.
+
+> Este procedimiento de cesión de datos no está implementado aún en la
+> versión actual de la App CRUE (y por tanto, tampoco en la UGRApp a
+> fecha de 7 de Septiembre de 2017) y, por tanto, en este momento no
+> se realiza cesión de datos a terceros de ningún tipo desde la
+> aplicación. Se comunicará en el momento en que esté activo.
+>
+> [*UGRApp. Legalidad y permisos.*](http://udigital.ugr.es/ugrapp/pages/condiciones_legales_permisos)
+
+No sólo es peligroso el que esto se vaya a implementar, sino que además
+abre la puerta a que en el futuro se realicen más cesiones de datos de
+esta forma. Incluso si los responsables actuales afirmaran que no van a
+implementar la cesión de datos, nada asegura que no se acabe implementando
+en el futuro.
 
 ## Software privativo y software libre
-
 ### ¿Qué es el software libre y por qué es importante?
 
 El [software libre](https://es.wikipedia.org/wiki/Software_libre) 
@@ -165,6 +219,16 @@ Consideramos importante remarcar que la aplicación **no es software libre**
 y cómo, incluso entre las declaraciones de quienes presentan la
 aplicación, se está de acuerdo con nosotros en que usar software
 privativo supone un ataque a la autonomía de la universidad.
+El Banco Santander ostenta los derechos de propiedad intelectual
+de la aplicación y sólo permite a las universidades usarla y desarrollar
+los módulos propios de cada universidad.
+
+> El Banco Santander ostenta los derechos de propiedad intelectual e
+> industrial de la App Crue, así como los derechos de explotación
+> sobre sus los resultados, entregables, aplicaciones, programas y
+> desarrollos de dicha aplicación.
+>
+> [*UGRapp. Legalidad y permisos.*](http://udigital.ugr.es/ugrapp/pages/condiciones_legales_permisos)
 
 La aplicación original, AppCrue, se intentó promocionar desde la
 [CRUE](http://www.crue.org/SitePages/QueEsCrueUniversidadesEspa%C3%B1olas.aspx)
@@ -200,6 +264,31 @@ lo necesite, es decir, una API pública de libre acceso. Hasta ahora,
 lo que se ha hecho es facilitarle esto en exclusiva a la aplicación
 del Santander.
 
+
+## Influencia del Santander en la Universidad
+El desarrollo de esta aplicación incrementa de nuevo la influencia del
+Banco Santander en la universidad pública. La aplicación se ha usado para
+publicitarlo junto a su red de universidades en las noticias de la Universidad
+de Granada.
+
+> Banco Santander, empresa que más invierte en Educación en el mundo
+> (Informe Varkey/UNESCO-Fortune 500) a través de Santander
+> Universidades, respalda distintas iniciativas y programas académicos
+> de la UAX desde 2008, entre los más de 1200 acuerdos de colaboración
+> que mantiene con universidades de 21 países.
+> 
+> Por su parte, Universia agrupa 1361 universidades socias, que
+> representan a 19,9 millones de profesores y estudiantes
+> universitarios.
+> 
+> La red de universidades y sus socios para empleo y servicios
+> digitales cerraron el año 2016 con una media mensual de 14,1 millones
+> de usuarios únicos en sus sites y 1,7 millones de seguidores en redes sociales.
+>
+> *Noticias de Canal UGR.* [*La Universidad de Granada lanza su app oficial.*](https://canal.ugr.es/noticia/app-ugr-oficial/)
+
+No se explican estos párrafos propagandísticos en una noticia de
+una universidad independiente.
 
 ## Acerca de este documento
 Somos un grupo de personas, entre ellas estudiantes y trabajadores de
