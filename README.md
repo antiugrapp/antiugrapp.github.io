@@ -347,18 +347,13 @@ ejerce sobre la comunidad universitaria.  Pedimos la retirada de
 UGRapp como aplicación oficial de la Universidad de Granada.
 
 Cuando la UGR empezó a dar publicidad masiva a esta aplicación
-en julio de 2017, alguien en [Interferencias][], un grupo preocupado por la
-privacidad y la seguridad pero sin relación con la UGR, rápidamente
-dio la voz de alarma al echar un vistazo a las condiciones de uso.
-
-Una vez dada la voz de alarma y
-creado [el grupo en Telegram][telegram], a este se unió gente de la
+en julio de 2017 se dió la voz de alarma y se creó
+[un grupo en Telegram][telegram] para coordinar las quejas. A este se unió gente de la
 propia universidad, incluso gente responsable de la aplicación o que
 tenía que ver con ella en algún sentido. Nos dijeron que hiciéramos un
 documento con todos estos asuntos y que ellos les darían respuesta,
 así que abrimos un [documento colaborativo en Etherpad][docu-etherpad]
-y empezamos a escribir. Desafortunadamente, llegaron los exámenes y el
-verano, y no pudimos darle forma final al documento.
+y empezamos a escribir.
 
 Mientras, la UGR no dejó de darle publicidad a la aplicación, a pesar
 de que le habíamos advertido de los aspectos negativos mencionados (y
