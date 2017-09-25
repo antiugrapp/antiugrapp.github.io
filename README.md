@@ -33,6 +33,68 @@ usuarios. Un ejemplo sencillo es que la UGR usa el DNI como
 identificador de inicio de sesión, con lo cual, este dato estaría
 expuesto al Santander.
 
+Las condiciones de uso de portales y aplicaciones de Universia, la red
+del Santander dedicada a universidades son abusivas y, entre otras
+cosas, permiten que se les cedan datos personales y se envíen informaciones
+comerciales a los usuarios
+
+> -El USUARIO, desde el momento en el que se registra en cualquiera de
+> los PORTALES, y de conformidad con lo dispuesto en su Política de
+> Confidencialidad, autoriza a la sociedad UNIVERSIA titular del
+> PORTAL en que se haya inscrito a enviarle información comercial
+> propia o de terceros de los sectores de telecomunicaciones, banca,
+> formación, educación, ocio, investigación, automoción, gran consumo,
+> empleo, cultura, salidas profesionales, textil, bancario,
+> transporte, seguros, restauración, tecnología, alimentación,
+> televisión, radio, portales y comparadores de internet, por correo
+> electrónico, sms o cualquier otro medio de comunicación electrónica
+> equivalente. Esta autorización es necesaria para registrarse como
+> usuario ya que el envío de la información comercial ayuda a
+> Universia a sufragar los costes derivados de la puesta a disposición
+> gratuita a favor de los usuarios de los contenidos de los portales,
+> guardando por tanto relación directa con la creación y el
+> mantenimiento de la relación contractual establecida con el USUARIO
+> por el hecho de registrarse en cualquiera de los PORTALES. Una vez
+> registrado y en caso de no querer recibir este tipo de
+> comunicaciones, el USUARIO podrá revocar su consentimiento a través
+> del procedimiento indicado en las propias comunicaciones comerciales
+> o en su área privada o dándose directamente de baja como USUARIO de
+> UNIVERSIA en el formulario de baja establecido al efecto.
+> 
+> -Al subir CONTENIDOS a Beevoz, el USUARIO autor concede a UNIVERSIA
+> licencia y autorización gratuitas y no exclusivas para mostrarlos,
+> comunicarlos y reproducirlos públicamente a través de Beevoz.
+> 
+> -UNIVERSIA queda expresamente autorizada a utilizar tales datos para
+> finalidades comerciales y promocionales sobre sus servicios y
+> productos, y también respecto de productos y servicios de terceros
+> de los sectores de telecomunicaciones, formación, banca, servicios
+> financieros, educación, ocio, investigación, automoción, gran
+> consumo, empleo, cultura, salidas profesionales, textil, transporte,
+> seguros, restauración, tecnología, alimentación, televisión, radio,
+> portales y comparadores de internet, que en ningún caso accederán a
+> sus datos, a cuyo efecto el Usuario consiente el uso de los mismos
+> para las finalidades indicadas, autorizando expresamente a UNIVERSIA
+> para el envío de comunicaciones comerciales y publicitarias sobre
+> productos, servicios y actividades propios de UNIVERSIA o de
+> terceros de los mencionados sectores, incluidas las comunicaciones
+> electrónicas (correo electrónico, sms u otro medio de comunicación
+> equivalente), y que versen sobre actividades propias o de los
+> terceros de los sectores indicados.
+>
+> [*Aviso legal para aplicaciones y portales de Universia*](http://usuarios.universia.net/preparaAvisoLegal.action)
+
+Puede encontrarse más información sobre las condiciones de portales
+y aplicaciones de Universia en
+
+ - [Aviso legal para aplicaciones y portales de Universia](http://usuarios.universia.net/preparaAvisoLegal.action)
+ - [Código ético de Universia](http://usuarios.universia.net/preparaCodigoEtico.action)
+ - [Política de confidencialidad de Universia](http://usuarios.universia.net/preparaPoliticaConfidencialidad.action)
+
+
+
+[Aviso legal](http://usuarios.universia.net/preparaAvisoLegal.action)
+
 ## Software privativo y software libre
 
 ### ¿Qué es el software libre y por qué es importante?
@@ -149,60 +211,7 @@ ejerce sobre la comunidad universitaria.
 Cuando la UGR empezó a dar publicidad masiva a esta aplicación
 en julio de 2017, alguien en [Interferencias][], un grupo preocupado por la
 privacidad y la seguridad pero sin relación con la UGR, rápidamente
-dio la voz de alarma al echar un vistazo a las condiciones de uso, las
-cuales son bastante abusivas y, entre otras cosas, permiten que se les
-cedan datos personales al Santander, por ejemplo:
-
-> -El USUARIO, desde el momento en el que se registra en cualquiera de
-> los PORTALES, y de conformidad con lo dispuesto en su Política de
-> Confidencialidad, autoriza a la sociedad UNIVERSIA titular del
-> PORTAL en que se haya inscrito a enviarle información comercial
-> propia o de terceros de los sectores de telecomunicaciones, banca,
-> formación, educación, ocio, investigación, automoción, gran consumo,
-> empleo, cultura, salidas profesionales, textil, bancario,
-> transporte, seguros, restauración, tecnología, alimentación,
-> televisión, radio, portales y comparadores de internet, por correo
-> electrónico, sms o cualquier otro medio de comunicación electrónica
-> equivalente. Esta autorización es necesaria para registrarse como
-> usuario ya que el envío de la información comercial ayuda a
-> Universia a sufragar los costes derivados de la puesta a disposición
-> gratuita a favor de los usuarios de los contenidos de los portales,
-> guardando por tanto relación directa con la creación y el
-> mantenimiento de la relación contractual establecida con el USUARIO
-> por el hecho de registrarse en cualquiera de los PORTALES. Una vez
-> registrado y en caso de no querer recibir este tipo de
-> comunicaciones, el USUARIO podrá revocar su consentimiento a través
-> del procedimiento indicado en las propias comunicaciones comerciales
-> o en su área privada o dándose directamente de baja como USUARIO de
-> UNIVERSIA en el formulario de baja establecido al efecto.
-> 
-> -Al subir CONTENIDOS a Beevoz, el USUARIO autor concede a UNIVERSIA
-> licencia y autorización gratuitas y no exclusivas para mostrarlos,
-> comunicarlos y reproducirlos públicamente a través de Beevoz.
-> 
-> -UNIVERSIA queda expresamente autorizada a utilizar tales datos para
-> finalidades comerciales y promocionales sobre sus servicios y
-> productos, y también respecto de productos y servicios de terceros
-> de los sectores de telecomunicaciones, formación, banca, servicios
-> financieros, educación, ocio, investigación, automoción, gran
-> consumo, empleo, cultura, salidas profesionales, textil, transporte,
-> seguros, restauración, tecnología, alimentación, televisión, radio,
-> portales y comparadores de internet, que en ningún caso accederán a
-> sus datos, a cuyo efecto el Usuario consiente el uso de los mismos
-> para las finalidades indicadas, autorizando expresamente a UNIVERSIA
-> para el envío de comunicaciones comerciales y publicitarias sobre
-> productos, servicios y actividades propios de UNIVERSIA o de
-> terceros de los mencionados sectores, incluidas las comunicaciones
-> electrónicas (correo electrónico, sms u otro medio de comunicación
-> equivalente), y que versen sobre actividades propias o de los
-> terceros de los sectores indicados.
-
-Podéis encontrar esto dentro de las condiciones generales de las
-aplicaciones de Universia:
-
--   [Aviso legal](http://usuarios.universia.net/preparaAvisoLegal.action)
--   [Código ético](http://usuarios.universia.net/preparaCodigoEtico.action)
--   [Política de confidencialidad](http://usuarios.universia.net/preparaPoliticaConfidencialidad.action)
+dio la voz de alarma al echar un vistazo a las condiciones de uso.
 
 Una vez dada la voz de alarma y
 creado [el grupo en Telegram][telegram], a este se unió gente de la
