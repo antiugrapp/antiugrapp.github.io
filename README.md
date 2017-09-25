@@ -1,7 +1,7 @@
 # Contra el uso de la aplicación UGRApp
 
-La aplicación UGRApp es una aplicación del Banco Santander a la que la
-universidad ha permitido que añada los logos oficiales. No se ha
+La aplicación UGRApp es una aplicación de Universia, una filial del
+Santander, que la UGR ha lanzado como app *oficial* de la misma. No se ha
 liberado su código, comparte datos personales con el Santander, su
 funcionalidad es muy reducida e incluye información comercial de
 productos financieros del Santander. Universia, la red del banco
