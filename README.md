@@ -181,11 +181,12 @@ implementada**, pero no se nos oculta que es su intención implementarla.
 >
 > [*UGRApp. Legalidad y permisos.*](http://udigital.ugr.es/ugrapp/pages/condiciones_legales_permisos)
 
-No sólo es peligroso el que esto se vaya a implementar, sino que además
-abre la puerta a que en el futuro se realicen más cesiones de datos de
-esta forma. Incluso si los responsables actuales afirmaran que no van a
-implementar la cesión de datos, nada asegura que no se acabe implementando
-en el futuro.
+No sólo es peligroso el que esto se vaya a implementar, sino que
+además abre la puerta a que en el futuro se realicen más cesiones de
+datos de esta forma. Incluso si los responsables actuales afirmaran
+que no van a implementar la cesión de datos, nada asegura que no se
+acabe implementando en el futuro bajo el mandato de una futura
+administración de la Universidad.
 
 ## Software privativo y software libre
 ### ¿Qué es el software libre y por qué es importante?
@@ -210,13 +211,14 @@ blog de campaña de la rectora decía en uno de sus artículos
 
 Crucialmente, el software privativo (esto es, aquel que no es libre),
 provoca dependencia de las instituciones públicas de las empresas que
-lo desarrollan. Si no están autorizadas a mejorar su software o
-contratar a otra empresa para que lo mejore, se acaba en una situación
-de monopolio en el que deben forzosamente pagar a la empresa que lo
-desarrolló inicialmente para su mejora, desarrollo y mantenimiento.
+lo desarrollan. Si no están autorizadas a mejorar su software, hacerlo
+disponible al público para que lo adapte o contratar a otra empresa
+para que lo mejore, se acaba en una situación de monopolio en el que
+deben forzosamente pagar a la empresa que lo desarrolló inicialmente
+para su mejora, desarrollo y mantenimiento.
 
 El siguiente vídeo (con subtítulos en castellano), explica la necesidad
-del software libre en la administración
+del software libre en las instituciones públicas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iuVUzg6x2yo" frameborder="0" allowfullscreen></iframe>
 
@@ -341,12 +343,9 @@ Santander.
 ## Acerca de este documento
 Somos un grupo de personas, entre ellas estudiantes y trabajadores de
 la UGR preocupados por la violación de derechos que esta aplicación
-ejerce sobre la comunidad universitaria.
+ejerce sobre la comunidad universitaria.  Pedimos la retirada de
+UGRapp como aplicación oficial de la Universidad de Granada.
 
-Pedimos la retirada de UGRapp como aplicación oficial de la Universidad
-de Granada.
-
-### Origen
 Cuando la UGR empezó a dar publicidad masiva a esta aplicación
 en julio de 2017, alguien en [Interferencias][], un grupo preocupado por la
 privacidad y la seguridad pero sin relación con la UGR, rápidamente
@@ -364,10 +363,8 @@ verano, y no pudimos darle forma final al documento.
 Mientras, la UGR no dejó de darle publicidad a la aplicación, a pesar
 de que le habíamos advertido de los aspectos negativos mencionados (y
 algunos otros fallos de seguridad). También
-publicaron [esta página][ugr-dudas-app] donde intentaban responder 
-de alguna forma a los asuntos planteados.
-
-### Estado actual
+publicaron [esta página][ugr-dudas-app] para intentar contener las
+quejas y preguntas.
 
 Una vez acabado el verano, redactamos [este documento][docu-gist], que
 enviamos a la gente que estaba a cargo de la aplicación. En vez de
