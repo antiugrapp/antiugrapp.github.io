@@ -315,7 +315,6 @@ la UGR preocupados por la violación de derechos que esta aplicación
 ejerce sobre la comunidad universitaria.
 
 ### Origen
-
 Cuando la UGR empezó a dar publicidad masiva a esta aplicación
 en julio de 2017, alguien en [Interferencias][], un grupo preocupado por la
 privacidad y la seguridad pero sin relación con la UGR, rápidamente
