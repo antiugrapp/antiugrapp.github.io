@@ -10,9 +10,9 @@
 </head>
 <body>
 <h1 id="contra-el-uso-de-la-aplicación-ugrapp">Contra el uso de la aplicación UGRApp</h1>
-<h2 id="resumen">Resumen</h2>
 <p>La aplicación UGRApp es una aplicación del Banco Santander a la que la universidad ha permitido que añada los logos oficiales. No se ha liberado su código, comparte datos personales con el Santander, su funcionalidad es muy reducida e incluye información comercial de productos financieros del Santander. Universia, la red del banco Santander destinada a universidades declara en sus condiciones legales que se nutre del envío de publicidad a los usuarios.</p>
 <p>Se recomienda no usar la aplicación y exigir a la UGR que la retire y facilite el desarrollo de aplicaciones libres para una universidad pública fuera de la influencia del Banco Santander.</p>
+<p>Te invitamos a que sigas leyendo este documento colaborativo en el que detallamos los problemas con la aplicación.</p>
 <!-- toc -->
 <ol style="list-style-type: decimal">
 <li><a href="#la-aplicación">La aplicación</a></li>
@@ -20,8 +20,7 @@
 </ol>
 <h2 id="la-aplicación">La aplicación</h2>
 <p>La Universidad de Granada lanzó en julio una aplicación para teléfonos móviles que ofrece facilidades para todos los miembros de la UGR: estudiantes, PDI y PAS. Por desgracia, esta aplicación es realmente perjudicial para la comunidad universitaria por varias razones.</p>
-<p>Esta aplicación se crea como elemento para facilitar la consulta y gestión de asuntos relacionados con la universidad. Lo apropiado sería, ya que la universidad es una institución pública, que se ofrecieran una serie de herramientas públicas para facilitar el acceso a todo el que lo necesite, es decir, una API pública de libre acceso. Sin embargo, lo que se ha hecho es facilitarle esto al Santander <strong>en exclusiva</strong>.</p>
-<p>Aparte de esto, la aplicación parece atentar gravemente contra la privacidad de los usuarios. Un ejemplo sencillo es que la UGR usa el DNI como identificador de inicio de sesión, con lo cual, el Santander puede coger este dato. Pero esto es solo un ejemplo, te invitamos a que sigas leyendo todo lo que hemos descubierto sobre esto y lo que hemos intentado arreglar. =)</p>
+<p>La aplicación parece atentar gravemente contra la privacidad de los usuarios. Un ejemplo sencillo es que la UGR usa el DNI como identificador de inicio de sesión, con lo cual, el Santander puede coger este dato.</p>
 <h2 id="software-libre">Software libre</h2>
 <h3 id="qué-es-el-software-libre-y-por-qué-es-importante">¿Qué es el software libre y por qué es importante?</h3>
 <p>El <a href="https://es.wikipedia.org/wiki/Software_libre">software libre</a> (<a href="https://en.wikipedia.org/wiki/Free_software">free software</a>) es aquel que puede ser usado, estudiado, distribuido y mejorado pública y libremente. A este software se le aplica una licencia libre y se libera su código fuente para hacer efectivas estas libertades.</p>
@@ -38,9 +37,23 @@
 <p>El <a href="http://pilararanda.info/pdf/programa/09.PROGRAMA-UNIVERSIDAD_DIGITAL.pdf">programa electoral</a> de la actual rectora incluía explícitamente el apoyo a las iniciativas de software libre</p>
 <blockquote>
 <p>Impulsar todas aquellas actividades dirigidas a la generación de productos y servicios útiles que operen bajo una licencia abierta (software libre).</p>
-<p>Programa electoral de Pilar Aranda, <a href="http://pilararanda.info/pdf/programa/09.PROGRAMA-UNIVERSIDAD_DIGITAL.pdf">Universidad Digital</a></p>
+<p>Programa electoral de Pilar Aranda, sección <a href="http://pilararanda.info/pdf/programa/09.PROGRAMA-UNIVERSIDAD_DIGITAL.pdf">Universidad Digital</a></p>
 </blockquote>
 <p>la acción que se ha tomado dejando que la aplicación oficial de la universidad sea privativa y esté en manos del Banco Santander y Universia contraviene directamente lo que se prometió tanto en el programa electoral como en los <a href="http://pilararanda.info/reflexiones-sobre-la-ugr/los-peces-en-el-agua-o-lo-importante-es-la-libertad-por-jj-merelo/">blogs de campaña</a>.</p>
+<p>A pesar de que UGRApp no tiene una licencia libre, se ha intentado dar a entender desde la Universidad que se enmarcaba dentro de una apuesta por el software libre.</p>
+<blockquote>
+<p>La Universidad de Granada ha presentado hoy su nueva web institucional y la aplicación móvil UGRApp [...]</p>
+<p>el delegado para la Universidad Digital, Óscar Cordón García ha indicado la decisión de [...] hacer una <strong>“apuesta por el software libre para tener autonomía”</strong></p>
+<p>Noticias UGR, 07/09/2017, <a href="https://www.ugr.es/universidad/noticias/la-ugr-presenta-su-nueva-web-institucional-y-la-app-movil-ugrapp"><em>La UGR presenta su nueva web institucional y la app móvil UGRApp</em></a></p>
+</blockquote>
+<p>Consideramos importante remarcar que la aplicación <strong>no es software libre</strong> y cómo, incluso entre las declaraciones de quienes presentan la aplicación, se está de acuerdo con nosotros en que usar software privativo supone un ataque a la autonomía de la universidad.</p>
+<p>La aplicación original, AppCrue, se intentó promocionar desde la <a href="http://www.crue.org/SitePages/QueEsCrueUniversidadesEspa%C3%B1olas.aspx">CRUE</a> como una aplicación libre. En el <a href="http://tic.crue.org/wp-content/uploads/2016/06/appCRUE-Presentaci%C3%B3n-rectores.pdf">resumen del proyecto</a> del Presidente Sectorial TIC de la CRUE se puede leer que el objetivo es &quot;crear una app móvil de universidades CRUE, colaborativa y libre&quot;. Sin embargo, el convenio que <a href="http://tic.crue.org/firma-del-convenio-con-banco-santander-para-la-puesta-en-marcha-de-la-appcrue/">se firmó</a> con el Banco Santander explícitamente incluye el código fuente entre la información confidencial</p>
+<blockquote>
+<p>Las partes acuerdan que la información que se revelen mutuamente (salvo que sea de dominio público o que ya se conociera por la otra parte por medios legítimos) tendrá la consideración de confidencial (la &quot;Información Confidencial&quot;), por lo que se comprometen a guardar el más absoluto secreto sobre la misma, sin perjuicio de su revelación cuando ello sea necesario por requerimiento ajustado a Derecho de autoridades judiciales o administrativas competentes.</p>
+<p>A título meramente enunciativo y no limitativo, tendrán consideración de información confidencial [...] códigos fuente así como cualquier otra información de tipo técnico</p>
+<p><em>Convenio de colaboración entre CRUE y el Banco Santander</em></p>
+</blockquote>
+<p>Por parte de la Universidad de Granada, para cumplir con el programa electoral sería necesario retirar la aplicación del Santander y permitir el desarrollo de aplicaciones libres. Lo apropiado sería, ya que la universidad es una institución pública, que se ofrecieran una serie de herramientas públicas para facilitar el acceso a todo el que lo necesite, es decir, una API pública de libre acceso. Hasta ahora, lo que se ha hecho es facilitarle esto en exclusiva a la aplicación del Santander.</p>
 <h2 id="acerca-de-este-documento">Acerca de este documento</h2>
 <p>Somos un grupo de personas, entre ellas estudiantes y trabajadores de la UGR preocupados por la violación de derechos que esta aplicación ejerce sobre la comunidad universitaria.</p>
 <h3 id="origen">Origen</h3>
