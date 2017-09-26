@@ -12,7 +12,7 @@ Se recomienda no usar la aplicación y exigir a la UGR que la retire
 y facilite el desarrollo de aplicaciones libres para una universidad
 pública fuera de la influencia del Banco Santander.
 
-Te invitamos a que sigas leyendo este documento colaborativo en el
+Te invitamos a que sigas leyendo este documento, elaborado de forma colaborativa, en el
 que detallamos los problemas con la aplicación.
 
 <!-- toc -->
