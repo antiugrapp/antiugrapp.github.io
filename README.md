@@ -346,30 +346,16 @@ la UGR preocupados por la violación de derechos que esta aplicación
 ejerce sobre la comunidad universitaria.  Pedimos la retirada de
 UGRApp como aplicación oficial de la Universidad de Granada.
 
-Cuando la UGR empezó a dar publicidad masiva a esta aplicación
-en julio de 2017 se dio la voz de alarma y se creó
-[un grupo en Telegram][telegram] para coordinar las quejas. A este se unió gente de la
-propia universidad, incluso gente responsable de la aplicación o que
-tenía que ver con ella en algún sentido. Nos dijeron que hiciéramos un
-documento con todos estos asuntos y que ellos les darían respuesta,
-así que abrimos un [documento colaborativo en Etherpad][docu-etherpad]
-y empezamos a escribir.
+Contamos además con
 
-Mientras, la UGR no dejó de darle publicidad a la aplicación, a pesar
-de que le habíamos advertido de los aspectos negativos mencionados (y
-algunos otros fallos de seguridad). También
-publicaron [esta página][ugr-dudas-app] para intentar contener las
-quejas y preguntas.
-
-Una vez acabado el verano, redactamos [este documento][docu-gist], que
-enviamos a la gente que estaba a cargo de la aplicación. En vez de
-contestar al documento, nos dijeron que solo nos podían ofrecer una
-reunión a puerta cerrada con algunos de nosotros para
-discutirlo. Nosotros pedimos poder grabar y difundir la reunión, pero
-la petición fue totalmente ignorada y, en su lugar, dieron la reunión
-por rechazada. Podéis encontrar todo el hilo de
-correos [en este mismo repositorio][correos].
-
+ * [un grupo en Telegram público][telegram], al que han accedido
+   responsables de la aplicación, y en el que prometieron responder a
+   nuestras quejas si las plasmábamos en un documento único,
+   
+ * y [este documento][docu-gist], que se presentó a los responsables de la
+   aplicación y al que se negaron posteriormente a dar una respuesta pública.
+ 
+ 
 [Interferencias]: https://github.com/Interferencias
 [telegram]: https://t.me/joinchat/AHZMCkSAyR7SaSQqYWATog
 [docu-etherpad]: https://public.etherpad-mozilla.org/p/ugrappsantander
