@@ -217,7 +217,7 @@ para que lo mejore, se acaba en una situación de monopolio en el que
 deben forzosamente pagar a la empresa que lo desarrolló inicialmente
 para su mejora, desarrollo y mantenimiento.
 
-El siguiente vídeo (con subtítulos en castellano), explica la necesidad
+El siguiente vídeo (con subtítulos en castellano) explica la necesidad
 del software libre en las instituciones públicas
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iuVUzg6x2yo" frameborder="0" allowfullscreen></iframe>
