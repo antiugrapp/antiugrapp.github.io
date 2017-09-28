@@ -167,3 +167,34 @@ Lamentamos que no hayáis aceptado la reunión propuesta para aclarar vuestras d
 Saludos,
 
 Oscar Cordón
+
+## Grupo, 28/9/17 14:24
+
+To: Delegación de la Rectora para la Universidad Digital <udigital@ugr.es>  
+CC: "Jose Angel Ibáñez (Director Oficina Gestion Comunicacion)" <joibanez@ugr.es>, Elena Morales - Gabinete de la Rectora <rectora@ugr.es>, Inma Ramos - Personal <miramos@ugr.es>, Jose Ruiz - Direccion CSIRC <direccioncsirc@ugr.es>, Angel García - CSIRC <angel@ugr.es>, Inma Ramos - Vicesecretaria General <vicesecretariageneral@ugr.es>
+
+Hola:
+
+Lo primero que nos gustaría destacar es que no es eso lo que dijo el señor Ibáñez Zapata. Él prometió una respuesta a todos, no una reunión cerrada a unos pocos. Si la reunión fuera posible publicarla, todavía podríamos entender que cumple su palabra de una forma un poco inesperada, pero es que ni eso nos están ofreciendo ustedes.
+
+No es necesario un comunicado público de la UGR como institución como respuesta a nuestro documento, pero sí esperamos una respuesta que podamos difundir públicamente, en contraposición a una reunión cerrada. Hemos cedido a hacer una reunión con la única condición de que pudiera ser grabada y publicada.
+
+En la página web de la UGRApp, ese mismo texto dice en el párrafo siguiente que "Se comunicará en el momento en que esté activo", de lo que se entiende que en algún momento estará activo. La preocupación es que, en el momento que esté activo, el "consentimiento expreso" sea una casilla de "he leído y acepto las condiciones" o algo por el estilo. No nos parece lógico que los alumnos tengan, en una aplicación oficial de una universidad pública, un botón de darle los datos al Santander.
+
+Al buscar en el buscador de convenios de la UGR, hay cuatro convenios del 14/06/2016 y ninguno es ese.
+
+Les sugerimos que le pregunten a ese abogado por qué estamos pidiendo una aplicación bajo una licencia libre, que quizá les explique lo que nosotros estamos argumentando desde otro punto de vista.
+
+Insistimos de nuevo: que en el momento actual no esté hecha la adenda y, por tanto, no esté implementada todavía la cesión de datos no parecen hechos tranquilizadores.
+
+Que la aplicación no obligue a ceder los datos es lo mínimo. Lo que pedimos es que no lo oferte. A la gente se le han anunciado esas características que ustedes llaman opcionales en los carteles de la aplicación, y lo van a considerar parte de la aplicación. Nadie se va a poner a pensar qué datos se están dando cuando las usen. Un "he leído y acepto" o algo parecido es poner en peligro a la gente. Asumir que la gente lo va a leer y decidir, siendo consciente de que la aplicación de su universidad le está pidiendo que dé datos al Santander, no es realista.
+
+Sobre lo del gasto, recursos de la UGR y horas de trabajo es un gasto, y es el gasto sobre el que hemos preguntado.
+
+Esperamos que el uso de la UGRApp siga siendo opcional, obviamente, puesto que lo contrario sería un gran golpe a los derechos de los estudiantes, PDI y PAS, y contrario a la libertad individual.
+
+Para que conste, nosotros no nos hemos negado a hacer una reunión, solo hemos pedido que pudiera ser grabada y distribuida, a lo cual ustedes no han respondido y la han dado por cancelada, así que entendemos que su negativa es a que sea grabada y distribuida, pues.
+
+En particular, no entendemos que, si la Universidad de Granada tiene realmente necesidad de este software, no se haya impulsado un desarrollo libre en lugar de dedicar recursos a un software desarrollado por el Santander. Una API pública, por ejemplo, permitiría que el acceso a esos datos no fuera exclusivo a una aplicación y evitaría la grave pérdida de autonomía que supone usar software privativo.
+
+Un saludo.
