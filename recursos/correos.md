@@ -198,3 +198,21 @@ Para que conste, nosotros no nos hemos negado a hacer una reunión, solo hemos p
 En particular, no entendemos que, si la Universidad de Granada tiene realmente necesidad de este software, no se haya impulsado un desarrollo libre en lugar de dedicar recursos a un software desarrollado por el Santander. Una API pública, por ejemplo, permitiría que el acceso a esos datos no fuera exclusivo a una aplicación y evitaría la grave pérdida de autonomía que supone usar software privativo.
 
 Un saludo.
+
+## UGR, 22/9/17 21:01
+
+From: Delegación de la Rectora para la Universidad Digital <udigital@ugr.es>  
+CC: "Jose Angel Ibáñez (Director Oficina Gestion Comunicacion)" <joibanez@ugr.es>, Elena Morales - Gabinete de la Rectora <rectora@ugr.es>, Inma Ramos - Personal <miramos@ugr.es>, Jose Ruiz - Direccion CSIRC <direccioncsirc@ugr.es>, Angel García - CSIRC <angel@ugr.es>, Inma Ramos - Vicesecretaria General <vicesecretariageneral@ugr.es>
+
+Esimado José Alberto,
+
+Como ya hemos comentado, la AppUGR pertenece al proyecto App CRUE, lanzado y liderado por CRUE Universidades Españolas. La Universidad de Granada ha tomado la decisión estratégica de sumarse a este proyecto para beneficiarse de su naturaleza de proyecto colaborativo entre las universidades españolas, decisión que pensamos que nos reporta muchos beneficios. El objetivo final es proporcionar una nueva herramienta de comunicación que sea de utilidad para nuestra comunidad universitaria, como ha sido el caso en las 9 universidades españolas que ya se han sumado a la primera fase del proyecto y han lanzado su versión de la App CRUE. Hay otro grupo de universidades esperando la redacción de la adenda para sumarse al proyecto.
+
+Creo que ya ha quedado claro que la UGRApp no está realizando ninguna cesión de datos en este momento y que si se llegara a activar algún procedimiento de cesión de datos en la parte comercial en el que el usuario pueda ceder datos por decisión propia se informará adecuadamente. No tenemos ningún interés de enmascarar ningún mensaje de cesión. Recuerdo que la UGR es la garante del cumplimiento de la legislación vigente sobre protección de los datos de los miembros de su comunidad universitaria y no va a poner esos datos en peligro. Todos los pasos que hemos dado en el lanzamiento de la UGRApp se han dado con todas las cautelas. No tenéis por qué preocuparos con este asunto.
+
+Igualmente, en el momento en que esté redactada y firmada la adenda se subirá al buscador de convenios, como todos los demás convenios de la UGR, e incluso os enviaremos una copia para que estéis informados. Aplicaremos la misma transparencia con este convenio que con todos los demás que hemos firmado y que firmaremos en el futuro.
+
+En referencia a la reunión, dijisteis que sólo asistiríais si se grababa lo que se hablara en la misma. Como no nos parece una exigencia adecuada, entendimos que no ibais a asistir. Reiteramos nuestro ofrecimiento a reunirnos en cualquier momento. Vosotros estáis pidiendo explicaciones y nos ponemos a vuestra disposición para darlas.
+Saludos cordiales,
+
+Oscar Cordón
