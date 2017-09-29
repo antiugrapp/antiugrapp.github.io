@@ -213,6 +213,7 @@ Creo que ya ha quedado claro que la UGRApp no está realizando ninguna cesión d
 Igualmente, en el momento en que esté redactada y firmada la adenda se subirá al buscador de convenios, como todos los demás convenios de la UGR, e incluso os enviaremos una copia para que estéis informados. Aplicaremos la misma transparencia con este convenio que con todos los demás que hemos firmado y que firmaremos en el futuro.
 
 En referencia a la reunión, dijisteis que sólo asistiríais si se grababa lo que se hablara en la misma. Como no nos parece una exigencia adecuada, entendimos que no ibais a asistir. Reiteramos nuestro ofrecimiento a reunirnos en cualquier momento. Vosotros estáis pidiendo explicaciones y nos ponemos a vuestra disposición para darlas.
+
 Saludos cordiales,
 
 Oscar Cordón
