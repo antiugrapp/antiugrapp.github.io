@@ -31,15 +31,15 @@ perjudicial para la comunidad universitaria por varias razones.
 
 Esta aplicación comparte un núcleo común, llamado AppCRUE, con la
 aplicación oficial de otras universidades miembros de la
-[CRUE](http://www.crue.org/SitePages/Inicio.aspx)
+[CRUE](http://www.crue.org/SitePages/Inicio.aspx):
 
- - Universidad de la Rioja,
- - Universidad de Valladolid,
- - Universidad de Castilla-La Mancha,
- - Universidad de Burgos,
- - Universidad de Vigo,
- - Universidad Alfonso X el Sabio, y
- - Universidad Pontificia de Salamanca.
+ - Universidad de La Rioja
+ - Universidad de Valladolid
+ - Universidad de Castilla-La Mancha
+ - Universidad de Burgos
+ - Universidad de Vigo
+ - Universidad Alfonso X el Sabio
+ - Universidad Pontificia de Salamanca
  
 Tememos que las mismas quejas aquí expuestas se pueden aplicar de la
 misma manera a todas las aplicaciones oficiales de estas
@@ -53,7 +53,7 @@ usa el DNI como identificador de inicio de sesión, y este dato estaría
 así expuesto al Santander. Está previsto, según la publicidad que se
 le ha dado a la aplicación, que la aplicación acceda a datos de la
 Universidad tales como calificaciones, conversaciones privadas entre
-sus usuarios y trámites administrativos.
+sus usuarios y trámites administrativos:
 
 > consulta de las calificaciones, el listado de asignaturas, los
 > horarios de clases, el menú de los comedores universitarios, el
@@ -76,7 +76,7 @@ sumo cuidado.
 Las condiciones de uso de portales y aplicaciones de Universia, la red
 del Santander dedicada a universidades son abusivas y, entre otras
 cosas, permiten que se les cedan datos personales y se envíen informaciones
-comerciales a los usuarios
+comerciales a los usuarios:
 
 > -El USUARIO, desde el momento en el que se registra en cualquiera de
 > los PORTALES, y de conformidad con lo dispuesto en su Política de
@@ -125,7 +125,7 @@ comerciales a los usuarios
 > [*Aviso legal para aplicaciones y portales de Universia*](http://usuarios.universia.net/preparaAvisoLegal.action)
 
 Puede encontrarse más información sobre las condiciones de portales
-y aplicaciones de Universia en
+y aplicaciones de Universia en:
 
  - [Aviso legal para aplicaciones y portales de Universia](http://usuarios.universia.net/preparaAvisoLegal.action)
  - [Código ético de Universia](http://usuarios.universia.net/preparaCodigoEtico.action)
@@ -134,7 +134,7 @@ y aplicaciones de Universia en
 ### Área comercial
 La aplicación se anunció en los carteles y noticias de la UGR como
 capaz de ofrecer una serie de "retos" y "ventajas comerciales" para
-los usuarios.
+los usuarios:
 
 > [...] ofrece la oportunidad de participar en retos, juegos, sorteos
 > y concursos, y acceder a innumerables ventajas exclusivas para el
@@ -144,7 +144,7 @@ los usuarios.
 
 Esos "retos" no están gestionados por la Universidad de Granada y no
 deberían tener lugar en una aplicación oficial de una universidad
-pública, son parte directa del Santander y Universia.
+pública, son parte directa del Santander y Universia:
 
 > Los servicios del Área comercial no están gestionados por la
 > Universidad de Granada. Su uso es opcional para el usuario y el área
@@ -171,7 +171,7 @@ acepten esas condiciones sin estudiarlas detenidamente.
 La UGRApp, de todas formas, es una aplicación muy deficiente en cuanto
 a funcionalidad, y en particular esta funcionalidad de "retos" que se
 anuncia en carteles y noticias de la UGR como implementada, **no está todavía
-implementada**, pero no se nos oculta que es su intención implementarla.
+implementada**, pero no se nos oculta que es su intención implementarla:
 
 > Este procedimiento de cesión de datos no está implementado aún en la
 > versión actual de la App CRUE (y por tanto, tampoco en la UGRApp a
@@ -181,7 +181,7 @@ implementada**, pero no se nos oculta que es su intención implementarla.
 >
 > [*UGRApp. Legalidad y permisos.*](http://udigital.ugr.es/ugrapp/pages/condiciones_legales_permisos)
 
-No sólo es peligroso el que esto se vaya a implementar, sino que
+No solo es peligroso el que esto se vaya a implementar, sino que
 además abre la puerta a que en el futuro se realicen más cesiones de
 datos de esta forma. Incluso si los responsables actuales afirmaran
 que no van a implementar la cesión de datos, nada asegura que no se
@@ -198,7 +198,7 @@ A este software se le aplica una licencia libre y se libera su código fuente
 para hacer efectivas estas libertades.
 
 ¿Por qué es importante el software libre en la universidad?, el propio
-blog de campaña de la rectora decía en uno de sus artículos
+blog de campaña de la rectora decía en uno de sus artículos:
 
 > [...] libertad para la propia universidad y para el contribuyente que es
 > quien la financia. Si no es libre, el software obliga a la
@@ -218,7 +218,7 @@ deben forzosamente pagar a la empresa que lo desarrolló inicialmente
 para su mejora, desarrollo y mantenimiento.
 
 El siguiente vídeo (con subtítulos en castellano) explica la necesidad
-del software libre en las instituciones públicas
+del software libre en las instituciones públicas:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iuVUzg6x2yo" frameborder="0" allowfullscreen></iframe>
 
@@ -227,7 +227,7 @@ del software libre en las instituciones públicas
 El
 [programa electoral](http://pilararanda.info/pdf/programa/09.PROGRAMA-UNIVERSIDAD_DIGITAL.pdf) de
 la actual rectora incluía explícitamente el apoyo a las iniciativas de
-software libre
+software libre:
 
 > Impulsar todas aquellas actividades dirigidas a la generación de
 > productos y servicios útiles que operen bajo una licencia abierta
@@ -235,7 +235,7 @@ software libre
 >
 > Programa electoral de Pilar Aranda, sección [Universidad Digital](http://pilararanda.info/pdf/programa/09.PROGRAMA-UNIVERSIDAD_DIGITAL.pdf)
 
-la acción que se ha tomado dejando que la aplicación oficial de la
+La acción que se ha tomado dejando que la aplicación oficial de la
 universidad sea privativa y esté en manos del Banco Santander y
 Universia contraviene directamente lo que se prometió tanto en el
 programa electoral como en los
@@ -243,7 +243,7 @@ programa electoral como en los
 
 A pesar de que UGRApp no tiene una licencia libre, se ha intentado
 dar a entender desde la Universidad que se enmarcaba dentro de una
-apuesta por el software libre.
+apuesta por el software libre:
 
 > La Universidad de Granada ha presentado hoy su nueva web
 > institucional y la aplicación móvil UGRApp [...]
@@ -259,8 +259,8 @@ y cómo, incluso entre las declaraciones de quienes presentan la
 aplicación, se está de acuerdo con nosotros en que usar software
 privativo supone un ataque a la autonomía de la universidad.
 El Banco Santander ostenta los derechos de propiedad intelectual
-de la aplicación y sólo permite a las universidades usarla y desarrollar
-los módulos propios de cada universidad.
+de la aplicación y únicamente permite a las universidades usarla y desarrollar
+los módulos propios de cada universidad:
 
 > El Banco Santander ostenta los derechos de propiedad intelectual e
 > industrial de la App CRUE, así como los derechos de explotación
@@ -278,7 +278,7 @@ Presidente Sectorial TIC de la CRUE se puede leer que el objetivo es
 Sin embargo, el convenio que
 [se firmó](http://tic.crue.org/firma-del-convenio-con-banco-santander-para-la-puesta-en-marcha-de-la-appcrue/) 
 con el Banco Santander explícitamente incluye el código fuente entre la
-información confidencial
+información confidencial:
 
 > Las partes acuerdan que la información que se revelen mutuamente
 > (salvo que sea de dominio público o que ya se conociera por la otra
@@ -308,7 +308,7 @@ del Santander.
 El desarrollo de esta aplicación incrementa de nuevo la influencia del
 Banco Santander en la universidad pública. La aplicación se ha usado para
 publicitarlo junto a su red de universidades en las noticias de la Universidad
-de Granada.
+de Granada:
 
 > Banco Santander, empresa que más invierte en Educación en el mundo
 > (Informe Varkey/UNESCO-Fortune 500) a través de Santander
@@ -337,22 +337,22 @@ Como se ha expuesto en secciones anteriores, la funcionalidad de la
 aplicación es muy limitada. No ofrece en estos momentos nada que no
 pueda ser realizado más cómodamente con un navegador web; ni nada que
 no pudiera ser fácilmente replicado si se proporcionara una API
-pública en lugar de sólo facilitar el acceso de los datos al
+pública en lugar de solo facilitar el acceso de los datos al
 Santander.
 
 ## Acerca de este documento
 Somos un grupo de personas, entre ellas estudiantes y trabajadores de
 la UGR preocupados por la violación de derechos que esta aplicación
-ejerce sobre la comunidad universitaria.  Pedimos la retirada de
+ejerce sobre la comunidad universitaria. Pedimos la retirada de
 UGRApp como aplicación oficial de la Universidad de Granada.
 
-Contamos además con
+Contamos además con:
 
- * [un grupo en Telegram público][telegram], al que han accedido
+ * [Un grupo en Telegram público][telegram], al que han accedido
    responsables de la aplicación, y en el que prometieron responder a
-   nuestras quejas si las plasmábamos en un documento único,
+   nuestras quejas si las plasmábamos en un documento único.
    
- * y [este documento][docu-gist], que se presentó a los responsables de la
+ * Y [este documento][docu-gist], que se presentó a los responsables de la
    aplicación y al que se negaron posteriormente a dar una respuesta pública.
  
  
