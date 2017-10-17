@@ -21,6 +21,7 @@ que detallamos los problemas con la aplicación.
   3. [Software privativo y software libre](#software-privativo-y-software-libre)
   4. [Influencia del Santander en la Universidad](#influencia-del-santander-en-la-universidad)
   5. [Funcionalidad limitada](#funcionalidad-limitada)
+  6. [Colectivos que han mostrado su apoyo a la causa](#colectivos-que-han-mostrado-su-apoyo-a-la-causa)
 <!-- tocstop -->
 
 ## La aplicación
@@ -40,6 +41,7 @@ aplicación oficial de otras universidades miembros de la
  - Universidad de Vigo
  - Universidad Alfonso X el Sabio
  - Universidad Pontificia de Salamanca
+ - Universidad de Salamanca
  
 Tememos que las mismas quejas aquí expuestas se pueden aplicar de la
 misma manera a todas las aplicaciones oficiales de estas
@@ -340,6 +342,16 @@ no pudiera ser fácilmente replicado si se proporcionara una API
 pública en lugar de solo facilitar el acceso de los datos al
 Santander.
 
+De hecho, unos compañeros han hecho rápidamente ["una aplicación libre, gestionada por ellos y no se la pidieron a ningún banco con intereses en sus datos"][tuit-ugatete-intereses], una versión alternativa de la aplicación que sustituye toda la publicidad por fotos de animalitos y podéis ver o instalar en [su página web][eugr]. Esta aplicación se ha convertido en poco tiempo en popular y tiene ya un número considerable de contribuciones, ya que es **software libre**.
+
+## Colectivos que han mostrado su apoyo a la causa
+-   [Delegación de estudiantes de la ETSIIT](https://twitter.com/delegaETSIIT/status/913786209331183616)
+-   [Coordinadora sindical estudiantil (CSE)](https://twitter.com/GranadaCSE/status/918434606516490240)
+-   [Asamblea de Fuentenueva](https://www.facebook.com/permalink.php?story_fbid=496535807375045&id=419935385035088)
+-   [Frente de estudiantes de la Universidad de Granada](https://twitter.com/FdE_Granada/status/919963479494287361)
+-   [Onda hostil](https://ondahostil.wordpress.com/2017/10/15/la-universidad-publica-la-banca-el-software-libre-y-los-gatetes/amp/)
+
+
 ## Acerca de este documento
 Somos un grupo de personas, entre ellas estudiantes y trabajadores de
 la UGR preocupados por la violación de derechos que esta aplicación
@@ -362,3 +374,5 @@ Contamos además con:
 [docu-gist]: https://gist.github.com/agarciamontoro/748585960766f710b7f32a0413cb325b
 [ugr-dudas-app]: http://udigital.ugr.es/ugrapp/pages/condiciones_legales_permisos
 [correos]: https://github.com/antiugrapp/antiugrapp.github.io/blob/master/recursos/correos.md
+[tuit-ugatete-intereses]: https://twitter.com/CanalUGatete/status/916304733786267648
+[repo-eugr]: https://e-ugr.github.io/
