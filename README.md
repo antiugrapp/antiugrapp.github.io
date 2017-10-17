@@ -375,4 +375,4 @@ Contamos además con:
 [ugr-dudas-app]: http://udigital.ugr.es/ugrapp/pages/condiciones_legales_permisos
 [correos]: https://github.com/antiugrapp/antiugrapp.github.io/blob/master/recursos/correos.md
 [tuit-ugatete-intereses]: https://twitter.com/CanalUGatete/status/916304733786267648
-[repo-eugr]: https://e-ugr.github.io/
+[eugr]: https://e-ugr.github.io/
