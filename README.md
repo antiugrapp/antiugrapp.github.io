@@ -345,11 +345,12 @@ Santander.
 De hecho, unos compañeros han hecho rápidamente ["una aplicación libre, gestionada por ellos y no se la pidieron a ningún banco con intereses en sus datos"][tuit-ugatete-intereses], una versión alternativa de la aplicación que sustituye toda la publicidad por fotos de animalitos y podéis ver o instalar en [su página web][eugr]. Esta aplicación se ha convertido en poco tiempo en popular y tiene ya un número considerable de contribuciones, ya que es **software libre**.
 
 ## Colectivos que han mostrado su apoyo a la causa
--   [Delegación de estudiantes de la ETSIIT](https://twitter.com/delegaETSIIT/status/913786209331183616)
--   [Coordinadora sindical estudiantil (CSE)](https://twitter.com/GranadaCSE/status/918434606516490240)
--   [Asamblea de Fuentenueva](https://www.facebook.com/permalink.php?story_fbid=496535807375045&id=419935385035088)
--   [Frente de estudiantes de la Universidad de Granada](https://twitter.com/FdE_Granada/status/919963479494287361)
--   [Onda hostil](https://ondahostil.wordpress.com/2017/10/15/la-universidad-publica-la-banca-el-software-libre-y-los-gatetes/amp/)
+-   [Delegación de estudiantes de la ETSIIT](https://twitter.com/delegaETSIIT/status/913786209331183616).
+-   [Coordinadora sindical estudiantil (CSE)](https://twitter.com/GranadaCSE/status/918434606516490240).
+-   [InfoAlmaina](https://radioalmaina.org/2017/10/infoalmaina-no-57-5-de-octubre-de-2017/), el programa informativo de la radio libre granadina Radio Almaina (nos entrevistan a partir del minuto [26:59](https://media.blubrry.com/almaina/s/archive.org/download/infoalmaina57/infoalmaina57.ogg)).
+-   [Asamblea de Fuentenueva](https://www.facebook.com/permalink.php?story_fbid=496535807375045&id=419935385035088).
+-   [Frente de estudiantes de la Universidad de Granada](https://twitter.com/FdE_Granada/status/919963479494287361).
+-   [Onda hostil](https://ondahostil.wordpress.com/2017/10/15/la-universidad-publica-la-banca-el-software-libre-y-los-gatetes/amp/).
 
 
 ## Acerca de este documento
