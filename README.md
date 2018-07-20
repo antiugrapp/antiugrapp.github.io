@@ -1,6 +1,8 @@
-# Contra el uso de la aplicación UGRApp
+---
+title: Contra el uso de la aplicación UGRApp
+---
 
- * [Análisis de la aplicación para la Delegación de Estudiantes.](https://antiugrapp.github.io/analisis.pdf)
+ - [Análisis de la aplicación para la Delegación de Estudiantes.](https://antiugrapp.github.io/analisis.pdf)
 
 La aplicación UGRApp es una aplicación de Universia, una filial del
 Santander, que la UGR ha lanzado como app *oficial* de la misma. No se ha
@@ -12,7 +14,7 @@ personales para el envío de publicidad a los usuarios.
 
 Se recomienda no usar la aplicación y exigir a la UGR que la retire
 y facilite el desarrollo de aplicaciones libres para una universidad
-pública fuera de la influencia del Banco Santander.
+pública fuera de la influencia del Banco Santander. 
 
 Te invitamos a que sigas leyendo este documento, elaborado de forma colaborativa, en el
 que detallamos los problemas con la aplicación.
