@@ -355,6 +355,7 @@ De hecho, unos compañeros han hecho rápidamente ["una aplicación libre, gesti
 -   [Asamblea de Fuentenueva](https://www.facebook.com/permalink.php?story_fbid=496535807375045&id=419935385035088).
 -   [Frente de estudiantes de la Universidad de Granada](https://twitter.com/FdE_Granada/status/919963479494287361).
 -   [Onda hostil](https://ondahostil.wordpress.com/2017/10/15/la-universidad-publica-la-banca-el-software-libre-y-los-gatetes/amp/).
+-   Noticia en [eldiario.es](https://www.eldiario.es/tecnologia/universidades-Santander-personales-academicos-profesores_0_823817816.html).
 
 
 ## Acerca de este documento
