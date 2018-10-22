@@ -374,7 +374,7 @@ Contamos además con:
  
  
 [Interferencias]: https://github.com/Interferencias
-[telegram]: https://t.me/joinchat/AHZMCkSAyR7SaSQqYWATog
+[telegram]: https://t.me/joinchat/AHZMCkSAyR7AHx0ORr0fXA
 [docu-etherpad]: https://public.etherpad-mozilla.org/p/ugrappsantander
 [docu-gist]: https://gist.github.com/agarciamontoro/748585960766f710b7f32a0413cb325b
 [ugr-dudas-app]: http://udigital.ugr.es/ugrapp/pages/condiciones_legales_permisos
